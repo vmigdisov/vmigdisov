@@ -12,7 +12,7 @@ my name is **Vsevolod Migdisov** and I'm an iOS developer.
 - `UI/UX Design`: Apple HIG, Sketch
 - `Design patterns`: MVC, MVVM
 - `Architectures`: Clean Architecture
-- `Q/A`: Unit tests, TDD
+- `Q/A`: XCTest, TDD
 - `Misc`:	OOP, SOLID, Networking (e.g. REST API), GCD, Core Animation etc.
 
 Email me: [vmigdisov@icloud.com](mailto:vmigdisov@icloud.com)
