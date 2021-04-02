@@ -17,7 +17,7 @@ my name is **Vsevolod Migdisov** and I'm an iOS developer.
 
 Email me: [vmigdisov@icloud.com](mailto:vmigdisov@icloud.com)
 
-## Pet Project: Data Tree Manager
+## Pet-project: Data Tree Manager
 *A Universal database management app for small business*
 - [Web site](https://data-tree.app)
 - [App Store](https://apps.apple.com/us/app/id1527102683)
