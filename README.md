@@ -4,7 +4,7 @@ my name is **Vsevolod Migdisov** and I'm an iOS developer.
 
 ## My tech stack
 
-- `Languages`: Swift 5, C++, Java, Kotlin, SQL
+- `Languages`: Swift 5, C/C++, Java, Kotlin, SQL
 - `IDE`: Xcode, Android Studio
 - `UI Frameworks`: UIKit, SwiftUI
 - `Data management`: CoreData, CloudKit, Firebase, JSON, XML
