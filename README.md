@@ -29,6 +29,10 @@ Xcode, Git, GitHub, Figma, Atlassian
 
 ## Conference Talks & Videos
 
+### WWDC 2025 Overview
+- [YouTube](https://www.youtube.com/watch?v=rNh8XikhbSE)  
+- [VK Video](https://vk.com/video-201285708_456239206?list=ln-xroH83hH2KZqpRnWUz)
+
 ### AI: A Rival or an Assistant to an iOS Developer?
 - [YouTube](https://www.youtube.com/watch?v=Td9F2-aRv60)  
 - [VK Video](https://vkvideo.ru/video-201285708_456239189?list=ln-zZ9rBGwzHZVdvKnPDq)
